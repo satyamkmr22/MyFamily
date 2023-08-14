@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https.//satyamkmr22.github.io/MyFamily/static/css/main.71e9a8a6.css",
-    "main.js": "/https.//satyamkmr22.github.io/MyFamily/static/js/main.c610b102.js",
-    "static/js/787.2f704ef5.chunk.js": "/https.//satyamkmr22.github.io/MyFamily/static/js/787.2f704ef5.chunk.js",
-    "static/media/17845497-wooden-fence-background-with-red-and-pink-flower copy.jpg": "/https.//satyamkmr22.github.io/MyFamily/static/media/17845497-wooden-fence-background-with-red-and-pink-flower copy.87155fc3f5940cd26cc4.jpg",
-    "static/media/maa.jpg": "/https.//satyamkmr22.github.io/MyFamily/static/media/maa.0af09aebb8fde76d9574.jpg",
-    "static/media/satyam.jpg": "/https.//satyamkmr22.github.io/MyFamily/static/media/satyam.bbc2081ce96167153a76.jpg",
-    "static/media/pricedown bl.otf": "/https.//satyamkmr22.github.io/MyFamily/static/media/pricedown bl.6bea83af9fab92ca7c40.otf",
-    "static/media/sanskriti.jpg": "/https.//satyamkmr22.github.io/MyFamily/static/media/sanskriti.847eb203a82ec1e5f5da.jpg",
-    "index.html": "/https.//satyamkmr22.github.io/MyFamily/index.html",
-    "main.71e9a8a6.css.map": "/https.//satyamkmr22.github.io/MyFamily/static/css/main.71e9a8a6.css.map",
-    "main.c610b102.js.map": "/https.//satyamkmr22.github.io/MyFamily/static/js/main.c610b102.js.map",
-    "787.2f704ef5.chunk.js.map": "/https.//satyamkmr22.github.io/MyFamily/static/js/787.2f704ef5.chunk.js.map"
+    "main.css": "/MyFamily/static/css/main.fa85d7cc.css",
+    "main.js": "/MyFamily/static/js/main.4d16880a.js",
+    "static/js/787.2f704ef5.chunk.js": "/MyFamily/static/js/787.2f704ef5.chunk.js",
+    "static/media/17845497-wooden-fence-background-with-red-and-pink-flower copy.jpg": "/MyFamily/static/media/17845497-wooden-fence-background-with-red-and-pink-flower copy.87155fc3f5940cd26cc4.jpg",
+    "static/media/maa.jpg": "/MyFamily/static/media/maa.0af09aebb8fde76d9574.jpg",
+    "static/media/satyam.jpg": "/MyFamily/static/media/satyam.bbc2081ce96167153a76.jpg",
+    "static/media/pricedown bl.otf": "/MyFamily/static/media/pricedown bl.6bea83af9fab92ca7c40.otf",
+    "static/media/sanskriti.jpg": "/MyFamily/static/media/sanskriti.847eb203a82ec1e5f5da.jpg",
+    "index.html": "/MyFamily/index.html",
+    "main.fa85d7cc.css.map": "/MyFamily/static/css/main.fa85d7cc.css.map",
+    "main.4d16880a.js.map": "/MyFamily/static/js/main.4d16880a.js.map",
+    "787.2f704ef5.chunk.js.map": "/MyFamily/static/js/787.2f704ef5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71e9a8a6.css",
-    "static/js/main.c610b102.js"
+    "static/css/main.fa85d7cc.css",
+    "static/js/main.4d16880a.js"
   ]
 }
